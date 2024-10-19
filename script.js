@@ -43,7 +43,7 @@ const questions = [
     },
     { 
         question: "Sou uma árvore alta e posso atingir até 50 mtros de altura", 
-        options: ["Araucaria", "Boto-Cor-de-Rosa", "Lontra", "Gato Maracajá", "Leão"], 
+        options: ["Araucaria", "Pau Brasil", "Castanha-do-pará", "Peroba-rosa", "Coqueiro"], 
         correctAnswer: 0,
         hints: [
             "Minhas folhas são verde-escuras e não caem no inverno",
@@ -109,7 +109,7 @@ const questions = [
     },
     { 
         question: "É uma planta que ocorre principalmente em terrenos mais secos da Mata Atlântica", 
-        options: ["Pau Brasil", "Boto-Cor-de-Rosa", "Baleia Franca", "Onça pintada", "Leão"], 
+        options: ["Pau Brasil", "Caesalpinia", "Sibipiruna", "Dracena", "Guapuruvu"], 
         correctAnswer: 0,
         hints: [
             "Suas flores amarelas desabrocham a partir dos últimos dias de setembro",
